@@ -1,2 +1,3 @@
 # I-m_Ghost
-image hosting
+
+This is an image host for Markdown images.
